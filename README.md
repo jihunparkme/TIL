@@ -48,7 +48,8 @@
 
 ### Vue
 
-Vue.js 시작하기 - Age of Vue.js (5.4h)
+- Vue.js 시작하기 ([Repository](https://github.com/jihunparkme/learn-vue-js))
+  - [Age of Vue.js](https://data-make.tistory.com/747)
 
 ## BOOK
 
