@@ -11,23 +11,23 @@
 
 ### Spring
 
-- 토비의 스프링 부트
+- 토비의 스프링 부트 ([Repository](https://github.com/jihunparkme/inflearn-toby-spring-boot))
   - [이해와 원리](https://jihunparkme.github.io/toby-spring-boot/)
-- 스프링 부트
+- 스프링 부트 ([Repository](https://github.com/jihunparkme/Inflearn-Spring-Boot))
   - [핵심 원리와 활용](https://jihunparkme.github.io/spring-boot/)
-- Spring Boot 기반으로 개발하는 Spring Batch
+- Spring Boot 기반으로 개발하는 Spring Batch ([Repository](https://github.com/jihunparkme/Inflearn-Spring-Batch))
   - [Spring Batch](https://jihunparkme.github.io/Spring-Boot-base-Spring-Batch/)
-- 스프링 핵심 원리
+- 스프링 핵심 원리 ([Repository](https://github.com/jihunparkme/Inflearn-Spring-Core-Principles-Advanced))
   - [고급편](https://jihunparkme.github.io/Spring-Core-Principles-Advanced/)
-- 스프링 DB 2편
+- 스프링 DB 2편 ([Repository](https://github.com/jihunparkme/Inflearn-Spring-DB))
   - [데이터 접근 활용 기술](https://jihunparkme.github.io/Spring-DB-Part2/)
-- 스프링 DB 1편
+- 스프링 DB 1편 ([Repository](https://github.com/jihunparkme/Inflearn-Spring-DB))
   - [데이터 접근 핵심 원리](https://jihunparkme.github.io/Spring-DB-Part1/)
-- 스프링 부트와 JPA 활용2
+- 스프링 부트와 JPA 활용2 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap/tree/main/jpa-web-jpashop))
   - [API 개발과 성능 최적화](https://jihunparkme.github.io/JPA-API-and-performance-optimization/)
-- 스프링 부트와 JPA 활용1
+- 스프링 부트와 JPA 활용1 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap/tree/main/jpa-web-jpashop))
   - [웹 애플리케이션 개발](https://jihunparkme.github.io/JPA-Web-Application/)
-- 자바 ORM 표준 JPA 프로그래밍
+- 자바 ORM 표준 JPA 프로그래밍 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap))
   - [기본편](https://jihunparkme.github.io/JPA-Programming-base/)
 - 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술 ([Repository](https://github.com/jihunparkme/Inflearn_Spring_MVC_Part-2))
   - [Exception](https://jihunparkme.github.io/Spring-MVC-Part2-Exception/)
