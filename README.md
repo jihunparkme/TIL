@@ -118,3 +118,40 @@ public enum Statue {
 
 - [Public Blog](https://data-make.tistory.com/)
 - [Private Blog](https://jihunparkme.github.io/)
+
+.
+
+## TOBE
+
+- 테스트 주도 개발
+- 오브젝트
+- 객체지향과 디자인 패턴
+- 패턴을 활용한 리팩토링
+- 테스트 주도 개발로 배우는 객체 지향 설계와 실천
+- 도메인 주도 개발
+- DDD Start
+- 자바코딩 이럴 땐 이렇게
+- 테스트 주도 개발 시작하기
+- Kotlin in Action
+- 실용주의 프로그래머
+- 피플웨어
+- [좋은 코드, 나쁜 코드](https://www.yes24.com/Product/Goods/109366833?pid=123487&cosemkid=go16528515239662655&gclid=Cj0KCQjwu-KiBhCsARIsAPztUF1Hln6Xn07YlXvwAimHf-qxm8y4FGxl_ED_7pfsgBKZmUVNGxBMWuQaAhMhEALw_wcB)
+- [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://www.yes24.com/Product/Goods/102819435)
+- 1만 시간의 재발견
+
+## Documentation
+
+**Spring**
+
+- [Spring Project Documentation](https://spring.io/projects/)
+- [Spring Framework Releases](https://github.com/spring-projects/spring-framework/releases)
+- [Spring Boot Releases](https://github.com/spring-projects/spring-boot/releases)
+- [Spring Blog](https://spring.io/blog)
+  - [engineering](https://spring.io/blog/category/engineering)
+  - [releases](https://spring.io/blog/category/releases/)
+  - [news](https://spring.io/blog/category/news/)
+
+**Java**
+
+- [Java News](https://dev.java/news/)
+- [JDK Release Notes](https://www.oracle.com/java/technologies/javase/jdk-relnotes-index.html)
