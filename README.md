@@ -13,9 +13,6 @@ public enum Statue {
 ## LECTURE
 
 ### JAVA
-
-- 코딩으로 학습하는 리팩토링 ([inflearn](https://www.inflearn.com/course/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81)) 📆
-- 코딩으로 학습하는 GoF의 디자인 패턴 ([inflearn](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)) 📆
 - [The Java, 코드를 조작하는 다양한 방법](https://jihunparkme.github.io/the-java/) ([Repository](https://github.com/jihunparkme/java-example)) ✅
 - [The Java 8](https://jihunparkme.github.io/the-java/) ([Repository](https://github.com/jihunparkme/java-example)) ✅
 - [이펙티브 자바 완벽 공략 2부](https://jihunparkme.github.io/Effective-Java-Class-Interface-Generics/) ([Repository](https://github.com/jihunparkme/Effective-JAVA)) ✅
@@ -55,7 +52,6 @@ public enum Statue {
 
 ### JPA
 
-- 
 - 스프링 부트와 JPA 활용2 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap/tree/main/jpa-web-jpashop)) ✅
   - [API 개발과 성능 최적화](https://jihunparkme.github.io/JPA-API-and-performance-optimization/)
 - 스프링 부트와 JPA 활용1 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap/tree/main/jpa-web-jpashop)) ✅
@@ -65,14 +61,12 @@ public enum Statue {
 
 ### Vue
 
-- Spring Data JPA ([inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84/dashboard))📆
-- Query DSL ([inflean](https://www.inflearn.com/course/querydsl-%EC%8B%A4%EC%A0%84/dashboard)) 📆
 - Vue.js 시작하기 ([Repository](https://github.com/jihunparkme/learn-vue-js)) ✅
   - [Age of Vue.js](https://data-make.tistory.com/747)
 
 ### Algorithm
 
-- [알고리즘 문제풀이 입문 (with C/C++)](https://github.com/jihunparkme/Problem-Solving/tree/master/PS_Study/Inflearn)
+- [알고리즘 문제풀이 입문 (with C/C++)](https://github.com/jihunparkme/Problem-Solving/tree/master/PS_Study/Inflearn) ✅
 
 .
 
@@ -96,7 +90,7 @@ public enum Statue {
 
 - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 ✅
 
-### 공학
+### Engineering
 
 - [소프트웨어 장인](https://jihunparkme.github.io/a-software-master/) ✅
 - [함께 자라기](https://jihunparkme.github.io/Growing-Up-Together/) ✅
@@ -121,25 +115,14 @@ public enum Statue {
 
 .
 
-## TOBE
-
-- 테스트 주도 개발
-- 오브젝트
-- 객체지향과 디자인 패턴
-- 패턴을 활용한 리팩토링
-- 테스트 주도 개발로 배우는 객체 지향 설계와 실천
-- 도메인 주도 개발
-- DDD Start
-- 자바코딩 이럴 땐 이렇게
-- 테스트 주도 개발 시작하기
-- Kotlin in Action
-- 실용주의 프로그래머
-- 피플웨어
-- [좋은 코드, 나쁜 코드](https://www.yes24.com/Product/Goods/109366833?pid=123487&cosemkid=go16528515239662655&gclid=Cj0KCQjwu-KiBhCsARIsAPztUF1Hln6Xn07YlXvwAimHf-qxm8y4FGxl_ED_7pfsgBKZmUVNGxBMWuQaAhMhEALw_wcB)
-- [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://www.yes24.com/Product/Goods/102819435)
-- 1만 시간의 재발견
-
 ## Documentation
+
+```java
+public class Documentation {
+    private String java;
+    private String spring;
+}
+```
 
 **Spring**
 
@@ -155,3 +138,56 @@ public enum Statue {
 
 - [Java News](https://dev.java/news/)
 - [JDK Release Notes](https://www.oracle.com/java/technologies/javase/jdk-relnotes-index.html)
+
+## TODO
+
+```java
+// TODE : Plan to proceed
+```
+
+### LECTURE
+
+**Java**
+
+- 코딩으로 학습하는 리팩토링 ([inflearn](https://www.inflearn.com/course/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81)) 📆
+- 코딩으로 학습하는 GoF의 디자인 패턴 ([inflearn](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)) 📆
+
+**JPA**
+
+- Spring Data JPA ([inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84/dashboard))📆
+- Query DSL ([inflean](https://www.inflearn.com/course/querydsl-%EC%8B%A4%EC%A0%84/dashboard)) 📆
+
+### BOOK
+
+**Java**
+
+- [오브젝트](https://www.yes24.com/Product/Goods/74219491)
+- [객체지향과 디자인 패턴](https://product.kyobobook.co.kr/detail/S000001062523)
+- [자바코딩 이럴 땐 이렇게](https://www.yes24.com/Product/Goods/13151261)
+
+**Kotlin**
+
+- [Kotlin in Action](https://www.yes24.com/Product/Goods/55148593)
+
+**Test**
+
+- [테스트 주도 개발](https://www.yes24.com/Product/Goods/12246033)
+- [테스트 주도 개발로 배우는 객체 지향 설계와 실천](https://www.yes24.com/Product/Goods/9008455)
+- [테스트 주도 개발 시작하기](https://www.yes24.com/Product/Goods/89145195)
+
+**Refactoring**
+
+- [패턴을 활용한 리팩토링](https://www.yes24.com/Product/Goods/14752528)
+- [좋은 코드, 나쁜 코드](https://www.yes24.com/Product/Goods/109366833?pid=123487&cosemkid=go16528515239662655&gclid=Cj0KCQjwu-KiBhCsARIsAPztUF1Hln6Xn07YlXvwAimHf-qxm8y4FGxl_ED_7pfsgBKZmUVNGxBMWuQaAhMhEALw_wcB)
+
+**Domain**
+
+- [도메인 주도 개발 시작하기](https://www.yes24.com/Product/Goods/108431347)
+- [DDD Start](https://www.yes24.com/Product/Goods/27750871)
+
+**Engineering**
+
+- [실용주의 프로그래머](https://www.yes24.com/Product/Goods/107077663)
+- [피플웨어](https://www.yes24.com/Product/Goods/13657193)
+- [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://www.yes24.com/Product/Goods/102819435)
+- [1만 시간의 재발견](https://www.yes24.com/Product/Goods/29135134)
