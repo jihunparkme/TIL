@@ -76,22 +76,28 @@ public enum Statue {
 
 ### JAVA
 
-- Modern Java in Action
-- 객체지향의 사실과 오해
-- 자바 ORM 표준 JPA 프로그래밍
+- Effective Java 📖
+  - [객체, 공통 메서드](https://jihunparkme.github.io/Effective-Java-Object/)
+  - [클래스, 인터페이스, 제네릭](https://jihunparkme.github.io/Effective-Java-Class-Interface-Generics/)
+- Modern Java in Action 📖
+  - [Modern Java In Action I](https://jihunparkme.github.io/Modern_Java_In_Action/)
+  - [Modern Java In Action II](https://jihunparkme.github.io/Modern-Java-In-Action-II/#javatime)
+- [객체지향의 사실과 오해](https://data-make.tistory.com/651) 📚
 
 ### JPA
 
+- [자바 ORM 표준 JPA 프로그래밍](https://jihunparkme.github.io/JPA-Programming/) 📚
+
 ### WEB
 
-- 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
+- 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 📚
 
 ### 공학
 
-- 소프트웨어 장인 📚
-- 함께 자라기 📚
-- 리팩터링 2판 📚
-- Clean Code 📚
+- [소프트웨어 장인](https://jihunparkme.github.io/a-software-master/) 📚
+- [함께 자라기](https://jihunparkme.github.io/Growing-Up-Together/) 📚
+- [리팩터링 2판](https://github.com/jihunparkme/refactoring-2nd-edition) 📚
+- [Clean Code](https://jihunparkme.github.io/CleanCode/) 📚
 
 .
 
@@ -108,3 +114,8 @@ public enum Statue {
 
 - [Public Blog](https://data-make.tistory.com/)
 - [Private Blog](https://jihunparkme.github.io/)
+
+
+
+
+
