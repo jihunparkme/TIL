@@ -4,7 +4,7 @@
 public enum Statue {
     🏃‍♀️("진행 중"),
     📖("독서 중"),
-    📚("정리 완료"),
+    📚("독서/정리 완료"),
     📆("진행 예정"),
     ;
 }
@@ -70,30 +70,28 @@ public enum Statue {
 - Vue.js 시작하기 ([Repository](https://github.com/jihunparkme/learn-vue-js)) 📚
   - [Age of Vue.js](https://data-make.tistory.com/747)
 
+.
+
 ## BOOK
 
-## JAVA
+### JAVA
 
+- Modern Java in Action
+- 객체지향의 사실과 오해
+- 자바 ORM 표준 JPA 프로그래밍
 
+### JPA
 
-## 공학
-
-- 소프트웨어 장인
-- 함께 자라기
-
-## WEB
+### WEB
 
 - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
 
+### 공학
 
-
-리팩터링 2판
-
-객체지향의 사실과 오해
-
-Clean Code
-
-자바 ORM 표준 JPA 프로그래밍
+- 소프트웨어 장인 📚
+- 함께 자라기 📚
+- 리팩터링 2판 📚
+- Clean Code 📚
 
 .
 
@@ -103,6 +101,8 @@ Clean Code
 - [conquest-of-spring](https://github.com/jihunparkme/conquest-of-spring)
 - [Problem-Solving-Java](https://github.com/jihunparkme/Problem-Solving-Java)
 - [Problem-Solving Public](https://github.com/jihunparkme/Problem-Solving)
+
+.
 
 ## BLOG
 
