@@ -10,9 +10,11 @@ public enum Statue {
 }
 ```
 
+.
+
 ## LECTURE
 
-### JAVA
+### Java
 - [The Java, 코드를 조작하는 다양한 방법](https://jihunparkme.github.io/the-java/) ([Repository](https://github.com/jihunparkme/java-example)) ✅
 - [The Java 8](https://jihunparkme.github.io/the-java/) ([Repository](https://github.com/jihunparkme/java-example)) ✅
 - [이펙티브 자바 완벽 공략 2부](https://jihunparkme.github.io/Effective-Java-Class-Interface-Generics/) ([Repository](https://github.com/jihunparkme/Effective-JAVA)) ✅
@@ -72,21 +74,21 @@ public enum Statue {
 
 ## BOOK
 
-### JAVA
+### Java
 
 - Effective Java 📖
-  - [객체, 공통 메서드](https://jihunparkme.github.io/Effective-Java-Object/)
   - [클래스, 인터페이스, 제네릭](https://jihunparkme.github.io/Effective-Java-Class-Interface-Generics/)
+  - [객체, 공통 메서드](https://jihunparkme.github.io/Effective-Java-Object/)
 - Modern Java in Action 📖
-  - [Modern Java In Action I](https://jihunparkme.github.io/Modern_Java_In_Action/)
   - [Modern Java In Action II](https://jihunparkme.github.io/Modern-Java-In-Action-II/#javatime)
+  - [Modern Java In Action I](https://jihunparkme.github.io/Modern_Java_In_Action/)
 - [객체지향의 사실과 오해](https://data-make.tistory.com/651) ✅
 
 ### JPA
 
 - [자바 ORM 표준 JPA 프로그래밍](https://jihunparkme.github.io/JPA-Programming/) ✅
 
-### WEB
+### Web
 
 - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 ✅
 
@@ -138,6 +140,8 @@ public class Documentation {
 
 - [Java News](https://dev.java/news/)
 - [JDK Release Notes](https://www.oracle.com/java/technologies/javase/jdk-relnotes-index.html)
+
+.
 
 ## TODO
 
