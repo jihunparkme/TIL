@@ -61,6 +61,10 @@ public enum Statue {
 - 자바 ORM 표준 JPA 프로그래밍 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap)) - [inflearn](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard) ✅
   - [기본편](https://jihunparkme.github.io/JPA-Programming-base/)
 
+### Engineering
+
+- 코딩으로 학습하는 GoF의 디자인 패턴 - [inflearn](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) 🏃‍♀
+
 ### Vue
 
 - Vue.js 시작하기 ([Repository](https://github.com/jihunparkme/learn-vue-js)) - [inflearn](https://www.inflearn.com/course/age-of-vuejs/dashboard) ✅
@@ -154,7 +158,6 @@ public class Documentation {
 **Java**
 
 - 코딩으로 학습하는 리팩토링 ([inflearn](https://www.inflearn.com/course/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81)) 📆
-- 코딩으로 학습하는 GoF의 디자인 패턴 ([inflearn](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)) 📆
 
 **JPA**
 
