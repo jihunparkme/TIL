@@ -14,8 +14,8 @@ public enum Statue {
 
 ## BLOG
 
-- [Public Blog](https://data-make.tistory.com/)
-- [Private Blog](https://jihunparkme.github.io/)
+- [Public Tistory Blog](https://data-make.tistory.com/)
+- [Private GitBlog](https://jihunparkme.github.io/)
 
 .
 
@@ -81,7 +81,7 @@ public class LectureTopic {
 
 ### Engineering
 
-- 코딩으로 학습하는 GoF의 디자인 패턴 - [inflearn](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) 🏃‍♀
+- [코딩으로 학습하는 GoF의 디자인 패턴](https://jihunparkme.github.io/gof-design-pattern/) ([Repository](https://github.com/jihunparkme/GoF-Design-Pattern)) - [inflearn](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) 🏃‍♀
 
 ### Vue
 
