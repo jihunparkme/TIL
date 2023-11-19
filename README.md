@@ -12,6 +12,13 @@ public enum Statue {
 
 .
 
+## BLOG
+
+- [Public Blog](https://data-make.tistory.com/)
+- [Private Blog](https://jihunparkme.github.io/)
+
+.
+
 ## LECTURE
 
 ```java
@@ -131,13 +138,6 @@ public class BookTopic {
 - [conquest-of-spring](https://github.com/jihunparkme/conquest-of-spring)
 - [Problem-Solving-Java](https://github.com/jihunparkme/Problem-Solving-Java)
 - [Problem-Solving Public](https://github.com/jihunparkme/Problem-Solving)
-
-.
-
-## BLOG
-
-- [Public Blog](https://data-make.tistory.com/)
-- [Private Blog](https://jihunparkme.github.io/)
 
 .
 
