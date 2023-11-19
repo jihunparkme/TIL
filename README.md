@@ -14,6 +14,17 @@ public enum Statue {
 
 ## LECTURE
 
+```java
+public class LectureTopic {
+    private String java;
+    private String spring;
+    private String jpa;
+    private String engineering;
+    private String vue;
+    private String algorithm;
+}
+```
+
 ### Java
 - [The Java, 코드를 조작하는 다양한 방법](https://jihunparkme.github.io/the-java/) ([Repository](https://github.com/jihunparkme/java-example)) - [inflearn](https://www.inflearn.com/course/the-java-code-manipulation/dashboard) ✅
 - [The Java 8](https://jihunparkme.github.io/the-java/) ([Repository](https://github.com/jihunparkme/java-example)) - [inflearn](https://www.inflearn.com/course/the-java-java8/dashboard) ✅
@@ -77,6 +88,15 @@ public enum Statue {
 .
 
 ## BOOK
+
+```java
+public class BookTopic {
+    private String java;
+    private String jpa;
+    private String web;
+    private String engineering;
+}
+```
 
 ### Java
 
