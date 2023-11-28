@@ -81,7 +81,7 @@ public class LectureTopic {
 
 ### Engineering
 
-- [코딩으로 학습하는 GoF의 디자인 패턴](https://jihunparkme.github.io/gof-design-pattern/) ([Repository](https://github.com/jihunparkme/GoF-Design-Pattern)) - [inflearn](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) 🏃‍♀
+- [코딩으로 학습하는 GoF의 디자인 패턴](https://jihunparkme.github.io/gof-design-pattern/) ([Repository](https://github.com/jihunparkme/GoF-Design-Pattern)) - [inflearn](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) 🏃‍♀️
 
 ### Vue
 
@@ -125,6 +125,7 @@ public class BookTopic {
 
 ### Engineering
 
+- [실용주의 프로그래머](https://www.yes24.com/Product/Goods/107077663) 🏃‍♀️
 - [소프트웨어 장인](https://jihunparkme.github.io/a-software-master/) ✅
 - [함께 자라기](https://jihunparkme.github.io/Growing-Up-Together/) ✅
 - [리팩터링 2판](https://github.com/jihunparkme/refactoring-2nd-edition) ✅
@@ -214,7 +215,6 @@ public class Documentation {
 
 **Engineering**
 
-- [실용주의 프로그래머](https://www.yes24.com/Product/Goods/107077663)
 - [피플웨어](https://www.yes24.com/Product/Goods/13657193)
 - [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://www.yes24.com/Product/Goods/102819435)
 - [1만 시간의 재발견](https://www.yes24.com/Product/Goods/29135134)
