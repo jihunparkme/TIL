@@ -4,7 +4,6 @@
 public enum Statue {
     🏃‍♀️("진행 중"),
     📖("독서/진행 중"),
-    ✅("독서/정리 완료"),
     📆("진행 예정"),
     ;
 }
@@ -33,57 +32,61 @@ public class LectureTopic {
 ```
 
 ### Java
-- [The Java, 코드를 조작하는 다양한 방법](https://jihunparkme.gitbook.io/docs/lecture/the-java) ([Repository](https://github.com/jihunparkme/java-example)) - [inflearn](https://www.inflearn.com/course/the-java-code-manipulation/dashboard) ✅
-- [The Java 8](https://jihunparkme.gitbook.io/docs/lecture/the-java) ([Repository](https://github.com/jihunparkme/java-example)) - [inflearn](https://www.inflearn.com/course/the-java-java8/dashboard) ✅
-- [이펙티브 자바 완벽 공략 2부](https://jihunparkme.gitbook.io/docs/book/effective-java/02) ([Repository](https://github.com/jihunparkme/Effective-JAVA)) - [inflearn](https://www.inflearn.com/course/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-2/dashboard) ✅
-- [이펙티브 자바 완벽 공략 1부](https://jihunparkme.gitbook.io/docs/book/effective-java/01) ([Repository](https://github.com/jihunparkme/Effective-JAVA)) - [inflearn](https://www.inflearn.com/course/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-1/dashboard) ✅
+- [The Java, 코드를 조작하는 다양한 방법](https://www.inflearn.com/course/the-java-code-manipulation/dashboard) ([2023](https://www.inflearn.com/certificate/198538-324184-12167680))
+  - [Repository](https://github.com/jihunparkme/java-example) / [GitBook](https://jihunparkme.gitbook.io/docs/lecture/the-java)
+- [The Java 8](https://www.inflearn.com/course/the-java-java8/dashboard) ([2023](https://www.inflearn.com/certificate/198538-325598-12167666))
+  - [Repository](https://github.com/jihunparkme/java-example) / [GitBook](https://jihunparkme.gitbook.io/docs/lecture/the-java)
+- [이펙티브 자바 완벽 공략 2부](https://www.inflearn.com/course/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-2/dashboard) ([2023](https://www.inflearn.com/certificate/198538-329668-12062891))
+  - [Repository](https://github.com/jihunparkme/Effective-JAVA) / [GitBook](https://jihunparkme.gitbook.io/docs/book/effective-java/02)
+- [이펙티브 자바 완벽 공략 1부](https://www.inflearn.com/course/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-1/dashboard) ([2023](https://www.inflearn.com/certificate/198538-328628-12062889))
+  - [Repository](https://github.com/jihunparkme/Effective-JAVA) / [GitBook](https://jihunparkme.gitbook.io/docs/book/effective-java/01)
 
 ### Spring
 
-- 토비의 스프링 부트 ([Repository](https://github.com/jihunparkme/inflearn-toby-spring-boot))- [inflearn](https://www.inflearn.com/course/%ED%86%A0%EB%B9%84-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%9D%B4%ED%95%B4%EC%99%80%EC%9B%90%EB%A6%AC/dashboard) ✅
-  - [이해와 원리](https://jihunparkme.gitbook.io/docs/lecture/toby-spring-boot)
-- 스프링 부트 ([Repository](https://github.com/jihunparkme/Inflearn-Spring-Boot)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC-%ED%99%9C%EC%9A%A9/dashboard) ✅
-  - [핵심 원리와 활용](https://jihunparkme.gitbook.io/docs/lecture/spring-boot)
-- Spring Boot 기반으로 개발하는 Spring Batch ([Repository](https://github.com/jihunparkme/Inflearn-Spring-Batch)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98/dashboard) ✅
-  - [Spring Batch](https://jihunparkme.gitbook.io/docs/lecture/spring-boot-base-spring-batch)
-- 스프링 핵심 원리 ([Repository](https://github.com/jihunparkme/Inflearn-Spring-Core-Principles-Advanced)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8/dashboard) ✅
-  - [고급편](https://jihunparkme.gitbook.io/docs/lecture/spring-core-principles-advanced)
-- 스프링 DB 2편 ([Repository](https://github.com/jihunparkme/Inflearn-Spring-DB)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-2/dashboard) ✅
-  - [데이터 접근 활용 기술](https://jihunparkme.gitbook.io/docs/lecture/spring-db-part-2)
-- 스프링 DB 1편 ([Repository](https://github.com/jihunparkme/Inflearn-Spring-DB)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1/dashboard) ✅
-  - [데이터 접근 핵심 원리](https://jihunparkme.gitbook.io/docs/lecture/spring-db-part-1)
-- 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술 ([Repository](https://github.com/jihunparkme/Inflearn_Spring_MVC_Part-2)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-2/dashboard)✅
-  - [Spring MVC Part 2](https://jihunparkme.gitbook.io/docs/lecture/spring-mvc-part-2)
-- 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 ([Repository](https://github.com/jihunparkme/Inflearn_Spring_MVC_Part-1)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1/dashboard) ✅
-  - [Spring MVC Part 1](https://jihunparkme.gitbook.io/docs/lecture/spring-mvc-part-1)
-- 모든 개발자를 위한 HTTP 웹 기본 지식 - [inflearn](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/dashboard) ✅
-  - [Http](https://jihunparkme.gitbook.io/docs/lecture/http)
-- 스프링 핵심 원리 ([Repository](https://github.com/jihunparkme/Inflearn_Spring2_Core_Principles)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard) ✅
-  - [기본 편](https://jihunparkme.gitbook.io/docs/lecture/spring-core)
-- 스프링 입문 ([Repository](https://github.com/jihunparkme/Inflearn_Spring1_introduction)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard) ✅
-  - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
+- 토비의 스프링 부트 ([Repository](https://github.com/jihunparkme/inflearn-toby-spring-boot))- [inflearn](https://www.inflearn.com/course/%ED%86%A0%EB%B9%84-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%9D%B4%ED%95%B4%EC%99%80%EC%9B%90%EB%A6%AC/dashboard)
+  - [이해와 원리](https://jihunparkme.gitbook.io/docs/lecture/toby-spring-boot) ([2023](https://www.inflearn.com/certificate/198538-329974-12012978))
+- 스프링 부트 ([Repository](https://github.com/jihunparkme/Inflearn-Spring-Boot)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC-%ED%99%9C%EC%9A%A9/dashboard)
+  - [핵심 원리와 활용](https://jihunparkme.gitbook.io/docs/lecture/spring-boot) ([2023](https://www.inflearn.com/certificate/198538-330459-11764231))
+- Spring Boot 기반으로 개발하는 Spring Batch ([Repository](https://github.com/jihunparkme/Inflearn-Spring-Batch)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98/dashboard)
+  - [Spring Batch](https://jihunparkme.gitbook.io/docs/lecture/spring-boot-base-spring-batch) ([2023](https://www.inflearn.com/certificate/198538-327744-11542925))
+- 스프링 핵심 원리 ([Repository](https://github.com/jihunparkme/Inflearn-Spring-Core-Principles-Advanced)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8/dashboard)
+  - [고급편](https://jihunparkme.gitbook.io/docs/lecture/spring-core-principles-advanced) ([2022](https://www.inflearn.com/certificate/198538-327901-4778174))
+- 스프링 DB 2편 ([Repository](https://github.com/jihunparkme/Inflearn-Spring-DB)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-2/dashboard)
+  - [데이터 접근 활용 기술](https://jihunparkme.gitbook.io/docs/lecture/spring-db-part-2) ([2022](https://www.inflearn.com/certificate/198538-328990-10783986))
+- 스프링 DB 1편 ([Repository](https://github.com/jihunparkme/Inflearn-Spring-DB)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1/dashboard)
+  - [데이터 접근 핵심 원리](https://jihunparkme.gitbook.io/docs/lecture/spring-db-part-1) ([2022](https://www.inflearn.com/certificate/198538-328723-10700516))
+- 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술 ([Repository](https://github.com/jihunparkme/Inflearn_Spring_MVC_Part-2)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-2/dashboard)
+  - [Spring MVC Part 2](https://jihunparkme.gitbook.io/docs/lecture/spring-mvc-part-2) ([2021](https://www.inflearn.com/certificate/198538-327260-4447934))
+- 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 ([Repository](https://github.com/jihunparkme/Inflearn_Spring_MVC_Part-1)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1/dashboard)
+  - [Spring MVC Part 1](https://jihunparkme.gitbook.io/docs/lecture/spring-mvc-part-1) ([2021](https://www.inflearn.com/certificate/198538-326674-2367213))
+- 모든 개발자를 위한 HTTP 웹 기본 지식 - [inflearn](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/dashboard)
+  - [Http](https://jihunparkme.gitbook.io/docs/lecture/http) ([2021](https://www.inflearn.com/certificate/198538-326277-2367212))
+- 스프링 핵심 원리 ([Repository](https://github.com/jihunparkme/Inflearn_Spring2_Core_Principles)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
+  - [기본 편](https://jihunparkme.gitbook.io/docs/lecture/spring-core) ([2021](https://www.inflearn.com/certificate/198538-325969-2367211))
+- 스프링 입문 ([Repository](https://github.com/jihunparkme/Inflearn_Spring1_introduction)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)
+  - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 (2021)
 
 ### JPA
 
-- 스프링 부트와 JPA 활용2 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap/tree/main/jpa-web-jpashop)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94/dashboard) ✅
-  - [API 개발과 성능 최적화](https://jihunparkme.gitbook.io/docs/lecture/jpa-api-and-performance-optimization)
-- 스프링 부트와 JPA 활용1 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap/tree/main/jpa-web-jpashop)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1/dashboard) ✅
-  - [웹 애플리케이션 개발](https://jihunparkme.gitbook.io/docs/lecture/jpa-web-application)
-- 자바 ORM 표준 JPA 프로그래밍 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap)) - [inflearn](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard) ✅
-  - [기본편](https://jihunparkme.gitbook.io/docs/lecture/jpa-programming-basic)
+- 스프링 부트와 JPA 활용2 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap/tree/main/jpa-web-jpashop)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94/dashboard)
+  - [API 개발과 성능 최적화](https://jihunparkme.gitbook.io/docs/lecture/jpa-api-and-performance-optimization) ([2022](https://www.inflearn.com/certificate/198538-324214-10395712))
+- 스프링 부트와 JPA 활용1 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap/tree/main/jpa-web-jpashop)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1/dashboard)
+  - [웹 애플리케이션 개발](https://jihunparkme.gitbook.io/docs/lecture/jpa-web-application) ([2022](https://www.inflearn.com/certificate/198538-324119-10395713))
+- 자바 ORM 표준 JPA 프로그래밍 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap)) - [inflearn](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard)
+  - [기본편](https://jihunparkme.gitbook.io/docs/lecture/jpa-programming-basic) ([2022](https://www.inflearn.com/certificate/198538-324109-10391487))
 
 ### Engineering
 
-- [코딩으로 학습하는 GoF의 디자인 패턴](https://jihunparkme.gitbook.io/docs/book/gof-design-pattern) ([Repository](https://github.com/jihunparkme/GoF-Design-Pattern)) - [inflearn](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) 🏃‍♀️
+- [코딩으로 학습하는 GoF의 디자인 패턴](https://jihunparkme.gitbook.io/docs/book/gof-design-pattern) ([Repository](https://github.com/jihunparkme/GoF-Design-Pattern)) - [inflearn](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) ([2023](https://www.inflearn.com/certificate/198538-327819-12244409))
 
 ### Vue
 
-- Vue.js 시작하기 ([Repository](https://github.com/jihunparkme/learn-vue-js)) - [inflearn](https://www.inflearn.com/course/age-of-vuejs/dashboard) ✅
-  - [Age of Vue.js](https://data-make.tistory.com/747)
+- Vue.js 시작하기 ([Repository](https://github.com/jihunparkme/learn-vue-js)) - [inflearn](https://www.inflearn.com/course/age-of-vuejs/dashboard)
+  - [Age of Vue.js](https://data-make.tistory.com/747) ([2022](https://www.inflearn.com/certificate/198538-324088-10656864))
 
 ### Algorithm
 
-- [알고리즘 문제풀이 입문 (with C/C++)](https://github.com/jihunparkme/Problem-Solving/tree/master/PS_Study/Inflearn) - [inflearn](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/dashboard) ✅
+- [알고리즘 문제풀이 입문 (with C/C++)](https://github.com/jihunparkme/Problem-Solving/tree/master/PS_Study/Inflearn) - [inflearn](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/dashboard) ([2020](https://www.inflearn.com/certificate/198538-295198-1541719))
 
 .
 
