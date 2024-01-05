@@ -3,8 +3,7 @@
 ```java
 public enum Statue {
     blank("완료"),
-    🏃‍♀️("진행 중"),
-    📖("독서 진행 중"),
+    🏃🏻‍♂️("진행 중"),
     📆("진행 예정"),
     ;
 }
@@ -106,7 +105,7 @@ public class BookTopic {
 
 ### Java
 
-- [Effective Java 3/E](https://jihunparkme.gitbook.io/docs/book/effective-java) 📖
+- [Effective Java 3/E](https://jihunparkme.gitbook.io/docs/book/effective-java) 🏃🏻‍♂️
   - 자바를 효율적으로 사용하기 위한 목적 (2023)
 - [Modern Java in Action](https://jihunparkme.gitbook.io/docs/book/modern-java-in-action)
   - 업무에 활용되는 JAVA 스트림을 효과적으로 사용하기 위한 목적 (2022)
@@ -123,9 +122,9 @@ public class BookTopic {
 
 ### Engineering
 
-- 대규모 시스템 설계 기초 📖
+- 대규모 시스템 설계 기초 🏃🏻‍♂️
   - 대규모 시스템을 설계하는 기술을 학습하기 위한 목적 (2024)
-- [실용주의 프로그래머](https://jihunparkme.gitbook.io/docs/book/the-pragmatic-programmer) 📖
+- [실용주의 프로그래머](https://jihunparkme.gitbook.io/docs/book/the-pragmatic-programmer) 🏃🏻‍♂️
   - 숙련공에서 마스터로 가기 위한 목적 (2024)
 - [도메인 주도 개발 시작하기](https://jihunparkme.gitbook.io/docs/book/ddd-start)
   - 업무에 DDD 적용을 위한 목적 (2023)
@@ -187,12 +186,17 @@ public class Documentation {
 
 **Java**
 
+- 더 자바, 애플리케이션을 테스트하는 다양한 방법 ([inflearn](https://www.inflearn.com/course/the-java-application-test#curriculum)) 📆
 - 코딩으로 학습하는 리팩토링 ([inflearn](https://www.inflearn.com/course/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81)) 📆
 
 **JPA**
 
 - Spring Data JPA ([inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84/dashboard))📆
 - Query DSL ([inflean](https://www.inflearn.com/course/querydsl-%EC%8B%A4%EC%A0%84/dashboard)) 📆
+
+**DevOps**
+
+- Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA) ([inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4/dashboard)) 📆
 
 ### BOOK
 
