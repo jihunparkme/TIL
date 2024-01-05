@@ -78,16 +78,18 @@ public class LectureTopic {
 
 ### Engineering
 
-- [코딩으로 학습하는 GoF의 디자인 패턴](https://jihunparkme.gitbook.io/docs/book/gof-design-pattern) ([Repository](https://github.com/jihunparkme/GoF-Design-Pattern)) - [inflearn](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) ([2023](https://www.inflearn.com/certificate/198538-327819-12244409))
+- [코딩으로 학습하는 GoF의 디자인 패턴](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) ([2023](https://www.inflearn.com/certificate/198538-327819-12244409))
+  - [Repository](https://github.com/jihunparkme/GoF-Design-Pattern) / [GitBook](https://jihunparkme.gitbook.io/docs/book/gof-design-pattern)
 
 ### Vue
 
-- Vue.js 시작하기 ([Repository](https://github.com/jihunparkme/learn-vue-js)) - [inflearn](https://www.inflearn.com/course/age-of-vuejs/dashboard)
-  - [Age of Vue.js](https://data-make.tistory.com/747) ([2022](https://www.inflearn.com/certificate/198538-324088-10656864))
+- [Vue.js 시작하기](https://www.inflearn.com/course/age-of-vuejs/dashboard) ([2022](https://www.inflearn.com/certificate/198538-324088-10656864))
+  - [Repository](https://github.com/jihunparkme/learn-vue-js) / [GitBook](https://data-make.tistory.com/747)
 
 ### Algorithm
 
-- [알고리즘 문제풀이 입문 (with C/C++)](https://github.com/jihunparkme/Problem-Solving/tree/master/PS_Study/Inflearn) - [inflearn](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/dashboard) ([2020](https://www.inflearn.com/certificate/198538-295198-1541719))
+- [알고리즘 문제풀이 입문 (with C/C++)](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/dashboard) ([2020](https://www.inflearn.com/certificate/198538-295198-1541719))
+  - [Repository](https://github.com/jihunparkme/Problem-Solving/tree/master/PS_Study/Inflearn)
 
 .
 
