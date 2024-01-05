@@ -69,12 +69,12 @@ public class LectureTopic {
 
 ### JPA
 
-- 스프링 부트와 JPA 활용2 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap/tree/main/jpa-web-jpashop)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94/dashboard)
-  - [API 개발과 성능 최적화](https://jihunparkme.gitbook.io/docs/lecture/jpa-api-and-performance-optimization) ([2022](https://www.inflearn.com/certificate/198538-324214-10395712))
-- 스프링 부트와 JPA 활용1 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap/tree/main/jpa-web-jpashop)) - [inflearn](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1/dashboard)
-  - [웹 애플리케이션 개발](https://jihunparkme.gitbook.io/docs/lecture/jpa-web-application) ([2022](https://www.inflearn.com/certificate/198538-324119-10395713))
-- 자바 ORM 표준 JPA 프로그래밍 ([Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap)) - [inflearn](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard)
-  - [기본편](https://jihunparkme.gitbook.io/docs/lecture/jpa-programming-basic) ([2022](https://www.inflearn.com/certificate/198538-324109-10391487))
+- [스프링 부트와 JPA 활용2 - API 개발과 성능 최적화](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94/dashboard) ([2022](https://www.inflearn.com/certificate/198538-324214-10395712))
+  - [Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap/tree/main/jpa-web-jpashop) / [GitBook](https://jihunparkme.gitbook.io/docs/lecture/jpa-api-and-performance-optimization)
+- [스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1/dashboard) ([2022](https://www.inflearn.com/certificate/198538-324119-10395713))
+  - [Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap/tree/main/jpa-web-jpashop) / [GitBook](https://jihunparkme.gitbook.io/docs/lecture/jpa-web-application)
+- [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard) ([2022](https://www.inflearn.com/certificate/198538-324109-10391487))
+  - [Repository](https://github.com/jihunparkme/inflearn-spring-jpa-roadmap) / [GitBook](https://jihunparkme.gitbook.io/docs/lecture/jpa-programming-basic)
 
 ### Engineering
 
