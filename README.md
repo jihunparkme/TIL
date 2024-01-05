@@ -100,26 +100,37 @@ public class BookTopic {
 
 ### Java
 
-- [Effective Java](https://jihunparkme.gitbook.io/docs/book/effective-java) 📖
+- [Effective Java 3/E](https://jihunparkme.gitbook.io/docs/book/effective-java) 📖
+  - 자바를 효율적으로 사용하기 위한 목적 (2023)
 - [Modern Java in Action](https://jihunparkme.gitbook.io/docs/book/modern-java-in-action) 📖
-- [객체지향의 사실과 오해](https://jihunparkme.gitbook.io/docs/book/oee) ✅
+  - 업무에 활용되는 JAVA 스트림을 효과적으로 사용하기 위한 목적 (2022)
 
 ### JPA
 
 - [자바 ORM 표준 JPA 프로그래밍](https://jihunparkme.gitbook.io/docs/book/orm-jpa) ✅
+  - 업무에 활용되는 JPA 기술 학습 목적 (2020)
 
-### Web
+### DevOps
 
 - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 ✅
+  - 사이드 프로젝트 개발/배포를 위한 목적 (2022)
 
 ### Engineering
 
 - [도메인 주도 개발 시작하기](https://jihunparkme.gitbook.io/docs/book/ddd-start) ✅
+  - 업무에 DDD 적용을 위한 목적 (2023)
 - [실용주의 프로그래머](https://jihunparkme.gitbook.io/docs/book/the-pragmatic-programmer) 📖
+  - 숙련공에서 마스터로 가기 위한 목적 (2023)
 - [소프트웨어 장인](https://jihunparkme.gitbook.io/docs/book/a-software-master) ✅
+  - 하고 있는 일에 주인의식을 가지고 프로페셔널하게 행동하기 위한 목적 (2023)
 - [함께 자라기](https://jihunparkme.gitbook.io/docs/book/growing-up-together) ✅
+  - 함께 성장하는 삶을 배우기 위한 목적 (2022)
 - [리팩터링 2판](https://jihunparkme.gitbook.io/docs/book/refactoring) ✅
+  - 외주를 통해 제작된 회사 홈페이지 코드 구조를 체계적으로 개선하기 위한 목적 (2021)
+- [객체지향의 사실과 오해](https://jihunparkme.gitbook.io/docs/book/oee) ✅
+  - 객체지향을 정확히 이해하고 활용하기 위한 목적 (2021)
 - [Clean Code](https://jihunparkme.gitbook.io/docs/book/clean-code) ✅
+  - 코드 분석을 통해 클린 코드의 중요성을 깨닫고, 읽기 쉬운 코드 생산을 위한 목적 (2021)
 
 .
 
