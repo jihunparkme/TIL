@@ -122,7 +122,7 @@ public class BookTopic {
 
 ### Engineering
 
-- 대규모 시스템 설계 기초 🏃🏻‍♂️
+- [대규모 시스템 설계 기초](https://jihunparkme.gitbook.io/docs/book/system-design-interview) 🏃🏻‍♂️
   - 대규모 시스템을 설계하는 기술을 학습하기 위한 목적 (2024)
 - [실용주의 프로그래머](https://jihunparkme.gitbook.io/docs/book/the-pragmatic-programmer) 🏃🏻‍♂️
   - 숙련공에서 마스터로 가기 위한 목적 (2024)
