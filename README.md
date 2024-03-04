@@ -43,6 +43,8 @@ public class LectureTopic {
 
 ### Spring
 
+- [백엔드 애플리케이션 성능 테스트하기](https://www.inflearn.com/course/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8/dashboard) (2024) 🏃🏻‍♂️
+  - [Repository]() / [Blog](https://jihunparkme.gitbook.io/docs/lecture/study/performance-test)
 - [스프링부트 상품-주문 API 개발로 알아보는 TDD](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%8B%A4%EC%A0%84-%EC%83%81%ED%92%88%EC%A3%BC%EB%AC%B8-tdd/dashboard) (2024)
   - [Repository](https://github.com/jihunparkme/Study-project-spring-java/tree/main/product-order-service) / [Blog](https://jihunparkme.gitbook.io/docs/lecture/study/tdd)
 - [Spring Boot JWT Tutorial](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-jwt/dashboard) (2024)
