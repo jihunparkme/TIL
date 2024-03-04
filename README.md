@@ -45,6 +45,7 @@ public class LectureTopic {
 
 - [스프링부트 상품-주문 API 개발로 알아보는 TDD](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%8B%A4%EC%A0%84-%EC%83%81%ED%92%88%EC%A3%BC%EB%AC%B8-tdd/dashboard) (2024)
   - [Repository](https://github.com/jihunparkme/Study-project-spring-java/tree/main/product-order-service) / [Blog](https://jihunparkme.gitbook.io/docs/lecture/study/tdd)
+- [Spring Boot JWT Tutorial](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-jwt/dashboard) (2024)
 - [토비의 스프링 부트 - 이해와 원리](https://www.inflearn.com/course/%ED%86%A0%EB%B9%84-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%9D%B4%ED%95%B4%EC%99%80%EC%9B%90%EB%A6%AC/dashboard) ([2023](https://www.inflearn.com/certificate/198538-329974-12012978))
   - [Repository](https://github.com/jihunparkme/inflearn-toby-spring-boot) / [Blog](https://jihunparkme.gitbook.io/docs/lecture/toby-spring-boot)
 - [스프링 부트 - 핵심 원리와 활용](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC-%ED%99%9C%EC%9A%A9/dashboard) ([2023](https://www.inflearn.com/certificate/198538-330459-11764231))
