@@ -82,8 +82,12 @@ public class LectureTopic {
 
 ### Engineering
 
+- [실습으로 배우는 선착순 이벤트 시스템](https://www.inflearn.com/course/%EC%84%A0%EC%B0%A9%EC%88%9C-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%8B%A4%EC%8A%B5) (2024)
+  - Repository / Blog
+- [재고시스템으로 알아보는 동시성이슈 해결방법](https://www.inflearn.com/course/%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%B4%EC%8A%88-%EC%9E%AC%EA%B3%A0%EC%8B%9C%EC%8A%A4%ED%85%9C/dashboard) ([2024](https://www.inflearn.com/certificate/198538-328995-12846462))
+  - [Repository]((https://github.com/jihunparkme/Study-project-spring-java/tree/main/stock-concurrency)) / [Blog](https://jihunparkme.gitbook.io/docs/lecture/study/concurrent#database-lock)
 - [EDA 기반 Microservice 구현 (with Hexagonal, DDD)](https://www.inflearn.com/course/eda%EA%B8%B0%EB%B0%98-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B5%AC%ED%98%84/dashboard) ([2024](https://www.inflearn.com/certificate/198538-328423-12697387))
-  - [Repository]() / [Blog](https://jihunparkme.gitbook.io/docs/lecture/msa)
+  - [Repository](https://github.com/jihunparkme/msa-example) / [Blog](https://jihunparkme.gitbook.io/docs/lecture/msa)
 - [Microservice 내부 아키텍처 와 EventStorming 설계](https://www.inflearn.com/course/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4/dashboard) ([2024](https://www.inflearn.com/certificate/198538-328422-12650919))
   - [Blog](https://jihunparkme.gitbook.io/docs/lecture/msa)
 - [코딩으로 학습하는 GoF의 디자인 패턴](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) ([2023](https://www.inflearn.com/certificate/198538-327819-12244409))
@@ -131,6 +135,8 @@ public class BookTopic {
 
 ### Engineering
 
+- [켄트 벡의 Tidy First?]()
+  - (2024)
 - [대규모 시스템 설계 기초](https://jihunparkme.gitbook.io/docs/book/system-design-interview)
   - 대규모 시스템을 설계하는 기술을 학습하기 위한 목적 (2024)
 - [실용주의 프로그래머](https://jihunparkme.gitbook.io/docs/book/the-pragmatic-programmer) 🏃🏻‍♂️
