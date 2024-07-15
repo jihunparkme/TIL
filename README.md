@@ -43,6 +43,8 @@ public class LectureTopic {
 
 ### Spring
 
+- [토비의 스프링 6 - 이해와 원리](https://www.inflearn.com/course/%ED%86%A0%EB%B9%84%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%816-%EC%9D%B4%ED%95%B4%EC%99%80-%EC%9B%90%EB%A6%AC/dashboard) ([2024](https://www.inflearn.com/certificate/198538-332188-12929791))
+  - [Repository](https://github.com/jihunparkme/inflearn-toby-spring-6) / [Blog](https://jihunparkme.gitbook.io/docs/lecture/toby-spring-6)
 - [백엔드 애플리케이션 성능 테스트하기](https://www.inflearn.com/course/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8/dashboard) ([2024](https://www.inflearn.com/certificate/198538-332441-12596115))
   - [Repository](https://github.com/jihunparkme/Study-project-spring-java/tree/main/stress-test-basic) / [Blog](https://jihunparkme.gitbook.io/docs/lecture/study/performance-test)
 - [스프링부트 상품-주문 API 개발로 알아보는 TDD](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%8B%A4%EC%A0%84-%EC%83%81%ED%92%88%EC%A3%BC%EB%AC%B8-tdd/dashboard) (2024)
@@ -135,7 +137,7 @@ public class BookTopic {
 
 ### Engineering
 
-- [켄트 벡의 Tidy First?]()
+- [켄트 벡의 Tidy First?]() 🏃🏻‍♂️
   - (2024)
 - [대규모 시스템 설계 기초](https://jihunparkme.gitbook.io/docs/book/system-design-interview)
   - 대규모 시스템을 설계하는 기술을 학습하기 위한 목적 (2024)
