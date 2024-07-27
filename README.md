@@ -137,8 +137,8 @@ public class BookTopic {
 
 ### Engineering
 
-- [켄트 벡의 Tidy First?]() 🏃🏻‍♂️
-  - (2024)
+- [켄트 벡의 Tidy First?](https://jihunparkme.gitbook.io/docs/book/kent-beck-tidy-first)
+  - 더 나은 소프트웨어 설계를 위한 코드 정리법을 학습하기 위한 목적 (2024)
 - [대규모 시스템 설계 기초](https://jihunparkme.gitbook.io/docs/book/system-design-interview)
   - 대규모 시스템을 설계하는 기술을 학습하기 위한 목적 (2024)
 - [실용주의 프로그래머](https://jihunparkme.gitbook.io/docs/book/the-pragmatic-programmer) 🏃🏻‍♂️
