@@ -26,6 +26,7 @@ public class LectureTopic {
     private String spring;
     private String jpa;
     private String engineering;
+    private String devOps;
     private String front;
     private String algorithm;
 }
@@ -94,6 +95,10 @@ public class LectureTopic {
   - [Repository](https://github.com/jihunparkme/GoF-Design-Pattern) / [Blog](https://jihunparkme.gitbook.io/docs/book/gof-design-pattern)
 
 ### DevOps
+- [대세는 쿠버네티스](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard) ([2024](https://www.inflearn.com/certificate/198538-324190-13121417))
+  - [Blog](https://jihunparkme.gitbook.io/docs/lecture/kubernetes/begin-kubernetes)
+- [아파치 카프카 for beginners](https://www.inflearn.com/course/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%9E%85%EB%AC%B8/dashboard) (2024)
+  - [Blog](https://jihunparkme.gitbook.io/docs/lecture/kafka/begin-kafka)
 - [EDA 기반 Microservice 구현 (with Hexagonal, DDD)](https://www.inflearn.com/course/eda%EA%B8%B0%EB%B0%98-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B5%AC%ED%98%84/dashboard) ([2024](https://www.inflearn.com/certificate/198538-328423-12697387))
   - [Repository](https://github.com/jihunparkme/msa-example) / [Blog](https://jihunparkme.gitbook.io/docs/lecture/msa)
 - [Microservice 내부 아키텍처 와 EventStorming 설계](https://www.inflearn.com/course/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4/dashboard) ([2024](https://www.inflearn.com/certificate/198538-328422-12650919))
