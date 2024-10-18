@@ -121,6 +121,7 @@ public class LectureTopic {
 ```java
 public class BookTopic {
     private String java;
+    private String kotlin;
     private String jpa;
     private String web;
     private String engineering;
@@ -133,6 +134,10 @@ public class BookTopic {
   - 자바를 효율적으로 사용하기 위한 목적 (2023)
 - [Modern Java in Action](https://jihunparkme.gitbook.io/docs/book/modern-java-in-action)
   - 업무에 활용되는 JAVA 스트림을 효과적으로 사용하기 위한 목적 (2022)
+
+### Kotlin
+
+- [Kotlin Cookbook](https://www.yes24.com/Product/Goods/90452827)
 
 ### JPA
 
