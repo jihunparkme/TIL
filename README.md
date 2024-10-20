@@ -130,14 +130,15 @@ public class BookTopic {
 
 ### Java
 
-- [Effective Java 3/E](https://jihunparkme.gitbook.io/docs/book/effective-java) 🏃🏻‍♂️
+- [Effective Java 3/E](https://jihunparkme.gitbook.io/docs/book/effective-java)
   - 자바를 효율적으로 사용하기 위한 목적 (2023)
 - [Modern Java in Action](https://jihunparkme.gitbook.io/docs/book/modern-java-in-action)
   - 업무에 활용되는 JAVA 스트림을 효과적으로 사용하기 위한 목적 (2022)
 
 ### Kotlin
 
-- [Kotlin Cookbook](https://www.yes24.com/Product/Goods/90452827)
+- [Kotlin Cookbook](https://jihunparkme.gitbook.io/docs/book/kotlin-cookbook)
+- [Kotlin in Action](https://jihunparkme.gitbook.io/docs/book/kotlin-in-action)
 
 ### JPA
 
@@ -236,10 +237,6 @@ public class Documentation {
 - [오브젝트](https://www.yes24.com/Product/Goods/74219491) 📆
 - [객체지향과 디자인 패턴](https://product.kyobobook.co.kr/detail/S000001062523) 📆
 - [자바코딩 이럴 땐 이렇게](https://www.yes24.com/Product/Goods/13151261) 📆
-
-**Kotlin**
-
-- [Kotlin in Action](https://www.yes24.com/Product/Goods/55148593) 📆
 
 **Test**
 
