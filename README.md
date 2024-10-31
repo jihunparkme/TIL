@@ -124,6 +124,7 @@ public class BookTopic {
     private String kotlin;
     private String jpa;
     private String web;
+    private String data;
     private String engineering;
 }
 ```
@@ -149,6 +150,10 @@ public class BookTopic {
 
 - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
   - 사이드 프로젝트 개발/배포를 위한 목적 (2022)
+
+### Date
+
+- [몽고DB 완벽 가이드]()
 
 ### Engineering
 
