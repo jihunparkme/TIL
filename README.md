@@ -153,10 +153,12 @@ public class BookTopic {
 
 ### Data
 
-- [몽고DB 완벽 가이드]()
+- [몽고DB 완벽 가이드](https://jihunparkme.gitbook.io/docs/book/mongo-db-guide)(2024)
 
 ### Engineering
 
+- [이벤트 소싱과 마이크로서비스 아키텍처]()
+  - MSA 환경에서 이벤트 소싱을 이해하기 위한 목적 (2024)
 - [켄트 벡의 Tidy First?](https://jihunparkme.gitbook.io/docs/book/kent-beck-tidy-first)
   - 더 나은 소프트웨어 설계를 위한 코드 정리법을 학습하기 위한 목적 (2024)
 - [대규모 시스템 설계 기초](https://jihunparkme.gitbook.io/docs/book/system-design-interview)
