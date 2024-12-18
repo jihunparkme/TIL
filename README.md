@@ -157,7 +157,7 @@ public class BookTopic {
 
 ### Engineering
 
-- [이벤트 소싱과 마이크로서비스 아키텍처]()
+- [이벤트 소싱과 마이크로서비스 아키텍처](https://jihunparkme.gitbook.io/docs/book/microservices-eventsourcing)
   - MSA 환경에서 이벤트 소싱을 이해하기 위한 목적 (2024)
 - [켄트 벡의 Tidy First?](https://jihunparkme.gitbook.io/docs/book/kent-beck-tidy-first)
   - 더 나은 소프트웨어 설계를 위한 코드 정리법을 학습하기 위한 목적 (2024)
