@@ -138,6 +138,7 @@ public class BookTopic {
 
 ### Kotlin
 
+- [Effective Kotlin](https://jihunparkme.gitbook.io/docs/book/effective-kotlin)
 - [Kotlin Cookbook](https://jihunparkme.gitbook.io/docs/book/kotlin-cookbook)
 - [Kotlin in Action](https://jihunparkme.gitbook.io/docs/book/kotlin-in-action)
 
