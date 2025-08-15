@@ -27,6 +27,7 @@ public class LectureTopic {
     private String jpa;
     private String engineering;
     private String devOps;
+    private String ai;
     private String front;
     private String algorithm;
 }
@@ -104,6 +105,13 @@ public class LectureTopic {
 - [Microservice 내부 아키텍처 와 EventStorming 설계](https://www.inflearn.com/course/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4/dashboard) ([2024](https://www.inflearn.com/certificate/198538-328422-12650919))
   - [Blog](https://jihunparkme.gitbook.io/docs/lecture/msa)
 
+### AI
+
+- [회사에서 바로 쓰는 업무자동화 AI 에이전트 (w. n8n, LangGraph)](https://www.inflearn.com/course/%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EB%B0%94%EB%A1%9C%EC%93%B0%EB%8A%94-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-ai%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/dashboard) (2025)
+  - [Blog](https://jihunparkme.gitbook.io/docs/lecture/ai-agent)
+- [Claude with the Anthropic API](https://anthropic.skilljar.com/claude-with-the-anthropic-api?next=%2Fclaude-with-the-anthropic-api%2F287737) (2025)
+  - [Blog](https://jihunparkme.gitbook.io/docs/lecture/claude-with-the-anthropic-api)
+
 ### Front
 
 - [Vue.js 시작하기](https://www.inflearn.com/course/age-of-vuejs/dashboard) ([2022](https://www.inflearn.com/certificate/198538-324088-10656864))
@@ -155,9 +163,12 @@ public class BookTopic {
 ### Data
 
 - [몽고DB 완벽 가이드](https://jihunparkme.gitbook.io/docs/book/mongo-db-guide)(2024)
+- [Kafka Streams in Action](https://jihunparkme.gitbook.io/docs/book/kafka-streams-in-action)(2025)
 
 ### Engineering
 
+- [Microservices Patterns](https://jihunparkme.gitbook.io/docs/book/microservices-patterns) (2025)
+- 대규모 시스템 설계 기초 2 (2025)
 - [이벤트 소싱과 마이크로서비스 아키텍처](https://jihunparkme.gitbook.io/docs/book/microservices-eventsourcing)
   - MSA 환경에서 이벤트 소싱을 이해하기 위한 목적 (2024)
 - [켄트 벡의 Tidy First?](https://jihunparkme.gitbook.io/docs/book/kent-beck-tidy-first)
